@@ -1,0 +1,25 @@
+.centertext{
+    text-align: center;
+    border: 50%;
+}
+.gatocentrico{
+    text-align: center;
+
+}
+.barra{
+    width:500px;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+.seccion-bienvenida {
+    max-width: 900px;       /* ajustable según tu gusto */
+    margin: 0 auto;         /* centra horizontalmente */
+    text-align: center;     /* centra el texto */
+    padding: 40px 2px;     /* espacio alrededor */
+    line-height: 1.6;       /* mejora la lectura */
+    font-size: 18px;        /* opcional: letra un poco más grande */
+}
+.texto{
+    word-wrap: break-word;
+  }
+    
