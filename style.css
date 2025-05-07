@@ -35,5 +35,74 @@
     object-fit: cover; /* recortar sin deformar */
     display: block;
 }
+body {
+    background-color: #976841;
+    color: #FFFFFF;
+    font-family: 'Helvetica Neue', sans-serif;
+}
 
-    
+a {
+    color: #6A452C;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ae794b;
+}
+
+.btn-primary {
+    background-color: #6A452C;
+    border-color: #6A452C;
+}
+
+.btn-primary:hover {
+    background-color: #ae794b;
+    border-color: #ae794b;
+}
+
+hr {
+    border-top: 1px solid #C0C0C0;
+}
+
+.navbar {
+    background-color: #6A452C!important;
+}
+
+.navbar-brand, .nav-link {
+    color: #FFFFFF !important;
+}
+
+.nav-link:hover {
+    color: #E94560 !important;
+}
+
+footer {
+    background-color: #ae794b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.bienvenida-section {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 15px;
+}
+
+.bienvenida-section h2 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.bienvenida-section img {
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+    margin-top: 20px;
+}
+.form-control {
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    color:#976841;
+}
