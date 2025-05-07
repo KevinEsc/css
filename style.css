@@ -12,12 +12,12 @@
     border: 3px solid black;
 }
 .seccion-bienvenida {
-    max-width: 900px;       /* ajustable según tu gusto */
+    max-width: 900px;       /* ajustable*/
     margin: 0 auto;         /* centra horizontalmente */
-    text-align: center;     /* centra el texto */
-    padding: 40px 2px;     /* espacio alrededor */
+    text-align: center;     /* centra el texto*/
+    padding: 40px 2px;     /* espacio alrededor*/
     line-height: 1.6;       /* mejora la lectura */
-    font-size: 18px;        /* opcional: letra un poco más grande */
+    font-size: 18px;        /*letra un poco más grande */
 }
 .texto {
     word-wrap: break-word;
@@ -32,7 +32,7 @@
 .image-card img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* recorta sin deformar */
+    object-fit: cover; /* recortar sin deformar */
     display: block;
 }
 
